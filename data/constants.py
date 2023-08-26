@@ -1,0 +1,1 @@
+textBoxData = {"name": "Alex", "email": "alex@mail.com", "curent_address": "Kyiv", "permanent_address": "Kharkiv"}
