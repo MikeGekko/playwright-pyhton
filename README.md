@@ -1,5 +1,11 @@
 # playwright-python-ghactions Demo QA
 
+This project contains an example of a playwright framework using Python and POM.
+
+UI and API tests
+
+Test site: https://demoqa.com/
+
 # Report page
 https://mikegekko.github.io/playwright-python-ghactions/
 
