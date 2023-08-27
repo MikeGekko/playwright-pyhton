@@ -1,5 +1,3 @@
-# ***GH Actions has failed status because I have test that should fail for reporter example*** 
-
 # playwright-python-ghactions Demo QA
 
 # Report page
